@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kechagioglou Dimitris</title>
+  
+    <!--Connect HTML with CSS--> 
+    <link rel = "stylesheet" type = "text/css" href="style.css">
+    <link rel = "icon" href = "dk.jpg" type = "image/jpg">
+    <script src="https://kit.fontawesome.com/905dd07da2.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  
+<div id="typing">
+  <h1 id="typed-text"></h1>
+  <span class="cursor">|</span>
+</div>
+
+    <br>
+    <br>
+
+    <p>I’m a final-year Digital Systems student with experience in customer support and a strong foundation in software development and networking. I have expertise in HTML,CSS and Python with academic exposure to networking and Agile Methodology. Through my experience from Customer Support i gained the ability to manage high-pressure, client-facing environments as a Premium Agent at Nova, demonstrating strong communication and problem-solving skills. I’m seeking an entry-level IT or software role where I can apply my technical skills and continue to grow professionally.
+      
+    </p>
+
+      <br><br>
+      <div class = "image-profil">
+    <img src="image.png" alt="Kechagioglou" width="260" height="260">
+    </div>
+  <div id = "lui">
+    <ul>
+  <li><a href="aboutme.html">About me</a></li>
+  <br>
+  <br>
+  <li><a href="cv.html">CV</a></li>
+  <br>
+  <br>
+  <li><a href="my_projects.html">My Projects</a></li>
+  <br>
+  <br>
+  <li><a href="contact.html">Contact</a></li>
+</ul>
+  </div> 
+
+   <br>
+  <br>
+   <br>
+  <br>
+<footer>
+  <p>&copy; 2026 Kechagioglou Dimitris. All rights reserved.</p>
+</footer>
+<script>
+  const text = "Hello, my name is Dimitris Kechagioglou";
+  let index = 0;
+  const element = document.getElementById("typed-text");
+
+  const timer = setInterval(() => {
+    element.textContent = text.slice(0, index);
+    index++;
+    if (index > text.length) {
+      clearInterval(timer);
+    }
+  }, 80);
+
+
+
+</script>
+</body>
+</html>
