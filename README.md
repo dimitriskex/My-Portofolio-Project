@@ -6,7 +6,7 @@
 *   **About Me:** Introduction highlighting my academic background in Digital Systems and technical skill set.
 *   **CV :** Interactive academic and professional timeline.
 *   **My Projects:** Showcase of key academic achievements and thesis work.
-*   **Contact:** Direct links to my professional social media and email.
+*   **Contact:** Links to my professional social media and email.
 
 
 ##  Project Summary
@@ -27,8 +27,7 @@ This project is a personal portfolio website built entirely from scratch. The pr
 
 ##  Tech Stack & Implementation
 
-*   **Markup:** HTML5
-*   **Styling:** CSS3 (for layout and responsive typography)
-*   **Scripting:** Vanilla JavaScript (for smooth scroll, interactive elements, and timeline rendering)
-
+*   **Markup:** HTML
+*   **Styling:** CSS
+*   **Scripting:** Javascript
 ---
