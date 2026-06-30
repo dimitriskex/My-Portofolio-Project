@@ -9,12 +9,12 @@
 *   **Contact:** Direct links to my professional social media and email.
 
 
-## 📌 Project Summary
+##  Project Summary
 This project is a personal portfolio website built entirely from scratch. The primary purpose of this website is twofold: first, to serve as a comprehensive, visual timeline and presentation of my academic and professional journey as a Digital Systems student. Second, it serves as a hands-on sandbox for my continuous development as a developer. By avoiding heavy frameworks and using core web technologies, this project allowed me to solidify my programming fundamentals and refine my front-end development skills.
 
 ---
 
-## 🚀Features
+## Features
 
 *   **About Me:** Introduction highlighting my academic background in Digital Systems and technical skill set.
 *   **CV (Resume):** Interactive academic and professional timeline.
