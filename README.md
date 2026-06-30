@@ -7,4 +7,4 @@
 *   **CV :** Interactive academic and professional timeline.
 *   **My Projects:** Showcase of key academic achievements and thesis work.
 *   **Contact:** Direct links to my professional social media and email.
-*
+
