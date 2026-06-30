@@ -1,5 +1,7 @@
-# My-Portofolio-Project
+# My Portofolio Project
 
+##  Project Summary
+This project is a personal portfolio website built entirely from scratch. The primary purpose of this website is twofold: first, to serve as a comprehensive, visual timeline and presentation of my academic and professional journey as a Digital Systems student. Second, it serves as a hands-on sandbox for my continuous development as a developer. By avoiding heavy frameworks and using core web technologies, this project allowed me to solidify my programming fundamentals and refine my front-end development skills.
 
 ## Features
 
@@ -7,10 +9,6 @@
 *   **CV :** Interactive academic and professional timeline.
 *   **My Projects:** Showcase of key academic achievements and thesis work.
 *   **Contact:** Links to my professional social media and email.
-
-
-##  Project Summary
-This project is a personal portfolio website built entirely from scratch. The primary purpose of this website is twofold: first, to serve as a comprehensive, visual timeline and presentation of my academic and professional journey as a Digital Systems student. Second, it serves as a hands-on sandbox for my continuous development as a developer. By avoiding heavy frameworks and using core web technologies, this project allowed me to solidify my programming fundamentals and refine my front-end development skills.
 
 ---
 
